@@ -7,6 +7,8 @@ LAN3 is based on the design by Martin Aubé -
 ## What is it?
 LAN3 is a device that is designed to sample spectral and directional properties of lightsources in the urban or natural environments. In other words, it allows you to place this device on top of your vehicle, drive around and capture exeact phyisical location of each light source along the way, characterize each light's color temperature, and its spectrum. 
 
+![Full](./images/Full.JPG)
+
 ## Changes in this version
 This version of LAN3 exapands the original design with the follwing changes:
 ### Hardware Changes 

@@ -1,7 +1,7 @@
 ## Setting up software and provisioning the LAN3 
 
 #### Preparing the Card
-Download the zip file containing the LAN3 SD card image. Unzip the image – resulting file will be around 3.5Gb 
+Download the zip file containing the LAN3 SD card image from the Releases. Unzip the image – resulting file will be around 3.5Gb 
 
 Follow the process outlined here: https://raspberrytips.com/create-image-sd-card/ to expand LAN3 image on to the SD card. 
  
