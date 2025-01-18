@@ -1,0 +1,40 @@
+﻿Part,Quantity,Source(s)
+MAIN BOARD,,
+Main Board PCB,1,See Hardware folder for gerber files
+"SparkFun LiPo Fuel Gauge (MUST GET FROM SPARKFUN, LOTS OF FAKE ONES ELSEWHERE)",1,https://www.sparkfun.com/products/20680
+GT-U7 GPS Module,1,https://www.amazon.com/gp/product/B08ZSMPPP6
+"Flexible 15 pin Cable,150mm, 1mm Pitch (FPC/FFC type - same as raspberry pi HQ camera)",1,https://www.amazon.com/dp/B07RWQQHKY
+"15 Position FFC, FPC Connector Contacts, Vertical - 1 Sided 0.039"" (1.00mm) Through Hole",1,https://www.digikey.com/en/products/detail/amphenol-icc-fci/SLW15S-1C7LF/1002258
+"Electronic Power Switch with Reverse Voltage Protection, LV",1,https://www.pololu.com/product/2808 OR https://www.digikey.com/en/products/detail/pololu-corporation/2808/10450608
+330uF 25V 8X12MM Electrolytic Capacitors,2,https://www.amazon.com/gp/product/B09TQTV372
+Raspberry Pi 4 B - at least 2GB Model,1,https://www.sparkfun.com/products/15446
+2x20 Extra Tall Stacking Headers for Pi,1,https://www.amazon.com/gp/product/B01EF42LTY
+JST XH 2.54mm 7 Pin Male Connector and 26AWG Female Connector Plug with Wire,5,https://www.amazon.com/gp/product/B0CF26XWJ4
+Extra Tall Stacking Header for Raspberry Pi - 2x20  Header,1,https://www.amazon.com/gp/product/B01EF42LTY
+USB-C charger and Boost Converter Module,1,https://www.amazon.com/dp/B09YD5C9QC
+11mm Heatsink  for Raspberry Pi 4 (P165-B),1,https://www.amazon.com/dp/B08N5VZN8R OR https://geekworm.com/products/p165-b
+JST-PH 2.0 Male and Female Connector Cable,1,https://www.amazon.com/dp/B07NWD5NTN
+,,
+CONTROL BOARD,,
+Control Board PCB,1,See Hardware folder for gerber files
+3D printed case with sliding cover for the control board ,1,See Hardware folder for STL file
+"ST7789 TFT IPS Display Module 1.14in, 135x240, 8Pin",1,https://www.amazon.com/dp/B07ZQ1C712
+"15 Position FFC, FPC Connector Contacts, Vertical - 1 Sided 0.039"" (1.00mm) Through Hole",1,https://www.digikey.com/en/products/detail/amphenol-icc-fci/SLW15S-1C7LF/1002258
+6x6x8mm Micro PCB Momentary Push Button,4,https://www.amazon.com/dp/B07HCM7XK8
+,,
+EXTERNAL ENCLOSURE AND RELATED HARDWARE,,
+125x125x100mm (5x5x4in) Junction Box,1,https://www.amazon.com/dp/B071JLC6C5
+RG178 SMA Female to U.FL Pigtail,1,https://www.amazon.com/gp/product/B098QH631G OR https://www.sparkfun.com/products/9145
+Active GPS Antenna - SMA Male Connector,1,https://www.amazon.com/gp/product/B0BWDJJLPN OR https://www.sparkfun.com/products/177
+"1/4""-20 Wall/Table Mount",1,https://www.amazon.com/gp/product/B09XMKHQZP
+"Magnetic Action Camera Mount, Heavy-Duty (2 * 88mm Base）",1,https://www.amazon.com/gp/product/B09VS2LR8G
+8000mAh 126090 battery with PH 2.54 JST Connector,1,https://www.amazon.com/dp/B0C1HFRBFV
+USB-C Bulkhead connector,1,https://www.amazon.com/dp/B0B7QYG313
+TCS34725 RGB Light Color Sensor,5,https://www.amazon.com/dp/B08L7MS8L4
+USB-C to USB-C 1ft 90 Degree Cable,1,https://www.amazon.com/gp/product/B0B5QJTT8M
+Triangular bubble level with mounting holes,1,https://www.amazon.com/gp/product/B09NL2V31X
+Male Pin Header Strip (2.54 mm),1,https://www.amazon.com/dp/B07PKKY8BX
+USB C to USB C Cable  1ft  90 Degree Cable,1,https://www.amazon.com/gp/product/B0B5QJTT8M
+ABS plastic sheet,1,https://www.amazon.com/gp/product/B0BM8WHLNT
+70mm x 1m  heat shrink tube,1,https://www.amazon.com/gp/product/B07YTKVYYF
+"SD card of your choice, minimum 32Gb, Class 10",1,
